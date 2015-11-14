@@ -24,7 +24,6 @@
 *.xcuserdata
 *.xcuserdatad
 *.orig
-*.meta
 *.unityPackage
 obj/
 Binaries/
